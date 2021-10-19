@@ -16,13 +16,13 @@ const Privacypolicy = () => {
           name="keywords"
           content="cybersecurity, manipal, manipal institute of technology, clubs, student clubs, student, organization, privacy policy"
         />
-        <meta name="url" content="https://wearemist.in/privacypolicy" />
+        <meta name="url" content="https://cybermanipal.wearemist.in/privacypolicy" />
         <meta name="coverage" content="Worldwide" />
         <meta name="target" content="all" />
         <meta name="HandheldFriendly" content="True" />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href="https://wearemist.in/" />
-        <meta name="reply-to" content="sudo@wearemist.in" />
+        <link rel="canonical" href="https://cybermanipal.wearemist.in/" />
+        <meta name="reply-to" content="sudo@cybermanipal.wearemist.in" />
         {/* OG meta tags */}
         <meta property="og:type" content="disclaimer" />
         <meta
@@ -34,7 +34,7 @@ const Privacypolicy = () => {
           content="Privacy policy of the Manipal Information Security Team about how we use your data and how could you have it deleted from our servers."
         />
         <meta property="og:image" content="/images/mist_og.png" />
-        <meta property="og:url" content="https://wearemist.in/privacypolicy" />
+        <meta property="og:url" content="https://cybermanipal.wearemist.in/privacypolicy" />
         <meta
           property="og:site_name"
           content="Manipal Information Security Team"
@@ -58,8 +58,8 @@ const Privacypolicy = () => {
         <br />
         <p>
           At MIST, accessible from{" "}
-          <a href="https://wearemist.in" className="text-blue-600">
-            https://wearemist.in
+          <a href="https://cybermanipal.wearemist.in" className="text-blue-600">
+            https://cybermanipal.wearemist.in
           </a>
           , one of our main priorities is the privacy of our visitors. This
           Privacy Policy document contains types of information that is

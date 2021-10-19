@@ -48,12 +48,12 @@ const News = ({ news, categories, bgHolder, stats }) => {
           name="keywords"
           content="cybersecurity, manipal, manipal institute of technology, clubs, student clubs, student, organization, news, cybermanipal, news"
         />
-        <meta name="url" content="https://wearemist.in/news" />
+        <meta name="url" content="https://cybermanipal.wearemist.in" />
         <meta name="coverage" content="Worldwide" />
         <meta name="target" content="all" />
         <meta name="HandheldFriendly" content="True" />
         <link rel="icon" href="/cybermanipal_favicon.ico" />
-        <link rel="canonical" href="https://wearemist.in/news" />
+        <link rel="canonical" href="https://cybermanipal.wearemist.in" />
         <meta name="reply-to" content="sudo@wearemist.in" />
         {/* OG meta tags */}
         <meta property="og:type" content="article" />
@@ -66,7 +66,7 @@ const News = ({ news, categories, bgHolder, stats }) => {
           content="Read latest news regarding cybersecurity and technology, and stay updated through this student run news page, straight from Manipal Institute of Technology."
         />
         <meta property="og:image" content="/images/cybermanipal.png" />
-        <meta property="og:url" content="https://wearemist.in/news" />
+        <meta property="og:url" content="https://cybermanipal.wearemist.in" />
         <meta
           property="og:site_name"
           content="Manipal Information Security Team"

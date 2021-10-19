@@ -51,13 +51,13 @@ const Latest = ({ newsItem, author, url }) => {
         />
         <meta
           name="url"
-          content={"https://wearemist.in/news/article/" + newsItem._id}
+          content={"https://cybermanipal.wearemist.in/article/" + newsItem._id}
         />
         <meta name="coverage" content="Worldwide" />
         <meta name="target" content="all" />
         <meta name="HandheldFriendly" content="True" />
         <link rel="icon" href="/cybermanipal_favicon.ico" />
-        <link rel="canonical" href="https://wearemist.in/news" />
+        <link rel="canonical" href="https://cybermanipal.wearemist.in" />
         <meta name="reply-to" content="sudo@wearemist.in" />
         {/* OG meta tags */}
         <meta property="og:type" content="article" />
@@ -72,7 +72,7 @@ const Latest = ({ newsItem, author, url }) => {
         <meta property="og:image" content={newsItem.highlightPhoto} />
         <meta
           property="og:url"
-          content={"https://wearemist.in/news/article/" + newsItem._id}
+          content={"https://cybermanipal.wearemist.in/article/" + newsItem._id}
         />
         <meta
           property="og:site_name"

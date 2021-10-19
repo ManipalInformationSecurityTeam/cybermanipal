@@ -16,13 +16,13 @@ const Editorialpolicy = () => {
           name="keywords"
           content="cybersecurity, manipal, manipal institute of technology, clubs, student clubs, student, organization, privacy policy"
         />
-        <meta name="url" content="https://wearemist.in/editorialpolicy" />
+        <meta name="url" content="https://cybermanipal.wearemist.in/editorialpolicy" />
         <meta name="coverage" content="Worldwide" />
         <meta name="target" content="all" />
         <meta name="HandheldFriendly" content="True" />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href="https://wearemist.in/" />
-        <meta name="reply-to" content="sudo@wearemist.in" />
+        <link rel="canonical" href="https://cybermanipal.wearemist.in/" />
+        <meta name="reply-to" content="sudo@cybermanipal.wearemist.in" />
         {/* OG meta tags */}
         <meta property="og:type" content="disclaimer" />
         <meta
@@ -34,7 +34,7 @@ const Editorialpolicy = () => {
           content="Editorial policy for Manipal Information Security Team about how CyberManipal operates."
         />
         <meta property="og:image" content="/images/mist_og.png" />
-        <meta property="og:url" content="https://wearemist.in/editorialpolicy" />
+        <meta property="og:url" content="https://cybermanipal.wearemist.in/editorialpolicy" />
         <meta
           property="og:site_name"
           content="Manipal Information Security Team"
@@ -58,8 +58,8 @@ const Editorialpolicy = () => {
         <br />
         <p>
           At CyberManipal, accessible from{" "}
-          <a href="https://wearemist.in/news" className="text-blue-600">
-            https://wearemist.in/news
+          <a href="https://cybermanipal.wearemist.in/news" className="text-blue-600">
+            https://cybermanipal.wearemist.in/news
           </a>
           , we aim to keep our visitors updated with the latest in the tech world. This Editorial Policy describes how we collect data and use your contributions.
           <br />
