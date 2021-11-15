@@ -276,7 +276,7 @@ const News = ({ news, categories, bgHolder, stats }) => {
             Become a MISTy subscriber
           </h3>
           <p className="w-100 px-10 md:w-3/4 pb-5 mx-auto">
-            Let us send you a weekly digest about all that's going around in
+            Let us send you a fortnightly digest about everything happening in
             CyberManipal and MIST.
           </p>
           <div className="w-full text-center">
