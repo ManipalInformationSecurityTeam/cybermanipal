@@ -2,8 +2,8 @@ import { DateDiff } from "../functions/DateDiff";
 import Link from "next/link";
 
 const NewsHorizontal = (props) => {
-  const linkToPage = `/news/article/${props.id}`;
-  const linkToCategory = `/news/category/${props.tag.split(" ").join("").toLowerCase()}/1`;
+  const linkToPage = `/article/${props.id}`;
+  const linkToCategory = `/category/${props.tag.split(" ").join("").toLowerCase()}/1`;
   return (
     <Link href={linkToPage}>
       <a className="grid grid-cols-1 md:grid-cols-12 gap-10 cursor-pointer justify-items-start my-10">
